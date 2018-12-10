@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac48f3d4-5fec-4f00-8661-38e43d5ad756" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/tasks/3/Runner.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasks/3/TaskUtils.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasks/3/URLParser.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tasks/3/CurrencyCounter.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -26,12 +24,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PHP" value="12" />
+          <entry key="PHP" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PHP" value="840" />
+          <entry key="PHP" value="1099" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.php.new.class">
@@ -67,20 +65,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tasks/3/URLParser.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="60">
+              <caret line="4" selection-start-line="1" selection-end-line="4" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/tasks/3/TaskUtils.php">
+        <entry file="file://$PROJECT_DIR$/tasks/3/CurrencyCounter.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="31" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="31" />
-              <folding>
-                <element signature="e#6#91#0#PHP" expanded="true" />
-              </folding>
+            <state relative-caret-position="30">
+              <caret line="2" column="41" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -110,6 +105,7 @@
         <option value="$PROJECT_DIR$/tasks/3/TaskUtils.php" />
         <option value="$PROJECT_DIR$/tasks/3/Runner.php" />
         <option value="$PROJECT_DIR$/tasks/3/URLParser.php" />
+        <option value="$PROJECT_DIR$/tasks/3/CurrencyCounter.php" />
       </list>
     </option>
   </component>
@@ -148,13 +144,6 @@
               <item name="tasks" type="462c0819:PsiDirectoryNode" />
               <item name="3" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Courses" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Courses" type="462c0819:PsiDirectoryNode" />
-              <item name="tasks" type="462c0819:PsiDirectoryNode" />
-              <item name="3" type="462c0819:PsiDirectoryNode" />
-              <item name="TaskUtils.php" type="88303cf5:PhpFileNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -166,7 +155,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544460046863" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544468536359" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -201,12 +190,12 @@
       <updated>1544442152372</updated>
       <workItem from="1544442154600" duration="1036000" />
       <workItem from="1544443477698" duration="625000" />
-      <workItem from="1544444114598" duration="5546000" />
+      <workItem from="1544444114598" duration="7247000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7207000" />
+    <option name="totallyTimeSpent" value="8908000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="825" extended-state="6" />
@@ -294,13 +283,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tasks/3/URLParser.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tasks/3/TaskUtils.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -308,6 +290,23 @@
           <folding>
             <element signature="e#6#91#0#PHP" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tasks/3/.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tasks/3/URLParser.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="1" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tasks/3/CurrencyCounter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="41" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
         </state>
       </provider>
     </entry>
